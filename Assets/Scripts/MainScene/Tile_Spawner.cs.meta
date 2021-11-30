@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f3671f78bacd5fb4794b76e4b13188f2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileModel: {fileID: 8725615858514035570, guid: e92ab09765aad984dbcda8e866a95b7d,
+      type: 3}
+  - scenery: {fileID: 1267227244849900188, guid: fab5891641db06a4780070d389c73762,
+      type: 3}
+  - player: {fileID: 1937594586658841436, guid: ef42c71758870d3488a48bd27dd44ef6,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
