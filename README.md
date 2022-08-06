@@ -5,6 +5,6 @@ All of the Source Codes can be found in Assets/Scripts
 
 A website version of the game is accessible through this link: https://k13nng.github.io/3D-Minesweeper-Web-Demo/
 
-Please open the link using Microsoft Edge, as WebGL (A 3D game renderer does not work great with Chrome!)
+Please open the link using Microsoft Edge, as WebGL (A 3D game renderer) does not work great with Chrome!
 
 Have Fun! :)
